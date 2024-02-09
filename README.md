@@ -1,10 +1,16 @@
-"""
 # hello-world
 
 My first repositonry
 
-## Title
-## Smaller Title
+## Thanks for checking this out
+### Hi, this is my work for BAIS ProPrep
 
-I am making updates in class.
-"""
+**This is to bold text**
+*This is to italicize*
+
+[LinkedIn](www.linkedin.com/in/kimberly-bui-264915179)
+
+~~I have not completed my assignment.~~
+
+This is so fun! 😹
+
